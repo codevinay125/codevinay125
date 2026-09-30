@@ -55,27 +55,6 @@ Currently focused on improving my **DSA, Full Stack Development and AI/ML** skil
 
 ---
 
-## 🚀 Featured Projects
-
-### 🧑‍💻 Real-Time Coder Workspace
-
-A collaborative coding workspace designed for developers to write and work with code in real time.
-
-**Tech:** React.js • Node.js • Express.js • MongoDB
-
-### 🤖 ResuMatch.ai
-
-An intelligent full-stack application that parses resumes, extracts technical skills and evaluates candidate compatibility against job postings.
-
-**Tech:** React.js • Node.js • AI/ML • MongoDB
-
-### 🩺 Lung Cancer Prediction
-
-Machine learning project comparing multiple ML/DL models for lung cancer prediction using symptomatic and lifestyle features.
-
-**Tech:** Python • Scikit-learn • XGBoost • CatBoost
-
----
 
 ## 🧠 Currently Learning
 
