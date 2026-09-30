@@ -8,9 +8,9 @@ Currently focused on improving my **DSA, Full Stack Development and AI/ML** skil
 
 <p align="center">
   <a href="YOUR_PORTFOLIO">🌐 Portfolio</a> •
-  <a href="www.linkedin.com/in/vinay-pratap-singh-rawat-490608296">💼 LinkedIn</a> •
+  <a href="linkedin.com/in/vinay-pratap-singh-rawat-490608296">💼 LinkedIn</a> •
   <a href="YOUR_INSTAGRAM">📸 Instagram</a> •
-  <a href="vinay0004rawat@gmail.com">📧 Email</a>
+  <a href="mailto:vinay0004rawat@gmail.com">📧 Email</a>
 </p>
 
 ---
@@ -85,10 +85,10 @@ System Design
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="YOUR_LINKEDIN">LinkedIn</a> •
+  <a href="linkedin.com/in/vinay-pratap-singh-rawat-490608296">LinkedIn</a> •
   <a href="YOUR_PORTFOLIO">Portfolio</a> •
   <a href="YOUR_INSTAGRAM">Instagram</a> •
-  <a href="mailto:YOUR_EMAIL">Email</a>
+  <a href="mailto:vinay0004rawat@gmail.com">Email</a>
 </p>
 
 ---
